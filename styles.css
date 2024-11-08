@@ -1,0 +1,35 @@
+body{
+    background-color: #D3D3D3
+}
+
+h1, #tribute-info, #tribute-link{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#img-div {
+    max-width: 500px;
+    margin: auto;
+    justify-content: center;
+}
+
+#image {
+  height: auto;
+  display: block;
+  max-width: 100%;
+}
+
+
+.myList {
+    display: table;
+    margin: auto;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#img-caption{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li {
+    margin: 10px 0;
+  }
